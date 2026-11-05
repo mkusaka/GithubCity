@@ -1,0 +1,3 @@
+GITHUB_CLIENT_ID=<GitHub App client ID>
+GITHUB_CLIENT_SECRET=<GitHub App client secret>
+SESSION_SECRET=<output of: openssl rand -base64 32>
